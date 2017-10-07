@@ -15,5 +15,5 @@ a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
 
 ![3](screenshots/3.PNG?raw=true "3")
 
-![4](screenshots/survey4.PNG?raw=true "4")
+![4](screenshots/4.PNG?raw=true "4")
 
